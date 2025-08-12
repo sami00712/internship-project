@@ -46,8 +46,10 @@ export function MainContent() {
               </div>
               <div className="absolute right-0 top-0 h-full w-1/2">
                 <Image
-                  src="/image/banner.png?height=320&width=400"
+                  src="/image/banner.png"
                   alt="Electronic items"
+                  width={400}
+                  height={320}
                   className="h-full w-full object-cover"
                 />
               </div>
