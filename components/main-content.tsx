@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { Avatar } from "@/components/ui/avatar"
+import Image from "next/image"
 
 export function MainContent() {
   const categories = [
@@ -44,7 +45,7 @@ export function MainContent() {
                 <Button className="bg-white text-gray-800 hover:bg-gray-100 px-6 py-2 rounded">Learn more</Button>
               </div>
               <div className="absolute right-0 top-0 h-full w-1/2">
-                <img
+                <Image
                   src="/image/banner.png?height=320&width=400"
                   alt="Electronic items"
                   className="h-full w-full object-cover"
