@@ -852,7 +852,7 @@ export function MainContent() {
   const categories = [
     "Automobiles",
     "Clothes and wear",
-    "Home interiors",
+    "Home's interiors",
     "Computer and tech",
     "Tools, equipments",
     "Sports and outdoor",
