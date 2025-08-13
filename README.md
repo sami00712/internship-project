@@ -11,7 +11,7 @@ Language: TypeScript / JavaScript
 
 🚀 Deployment
 The project is deployed here:
-Live Demo (Deploy link will be added here)
+Live Demo https://internship-project12.netlify.app/
 
 📷 Features
 Modern, responsive design
